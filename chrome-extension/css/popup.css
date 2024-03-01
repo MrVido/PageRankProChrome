@@ -1,0 +1,43 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F4F4F9;
+    color: #333333;
+    margin: 0;
+    padding: 15px;
+    width: 500px;
+    border-radius: 25px;
+}
+
+h1 {
+    color: #005A8D;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #58A4B0;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+section {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+div {
+    padding: 5px 0;
+}
+
+div.issue {
+    color: #DAA49A;
+    font-weight: 500;
+}
+
+/* Add more styles as needed */

@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "SEO Analysis Extension",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Analyzes SEO metrics of the current webpage, including meta tags, headings, structured data, and social media tags.",
+        "description": "The description of the extension."
+    }
+}
